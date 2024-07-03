@@ -18,14 +18,8 @@ Welcome to the Sorting Algorithm Visualizer! This project provides a graphical i
 
 ### Installation
 
-1. **Download the Repository:**
+**Download the Repository:**
    - Download the entire repository as a zip folder and extract it to your desired location.
-
-2. **Clone the Repository (Optional):**
-   - Alternatively, you can clone the repository using Git:
-     ```sh
-     git clone https://github.com/SnehalSanap0/sorting-algorithm-visualizer.git
-     ```
      
 ### Running the Visualizer
 
